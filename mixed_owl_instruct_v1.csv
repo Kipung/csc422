@@ -1,0 +1,1201 @@
+instruction,response
+Refactor this description to be concise and clear about git rebase vs merge.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Explain owlet development stages in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare NoSQL and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare threads and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Summarize recent findings on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about HTTP vs HTTPS, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain HTTP vs HTTPS in simple terms.,"Key idea, brief definition, one example, and one caution."
+Write a JavaScript function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+"Given a dataset about overfitting and underfitting, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Summarize the key points about message queues.,Bulleted summary with 4–6 points.
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a Rust function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+Compare SVG and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Explain HTTP vs HTTPS in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare synchronous APIs and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Compare TCP and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain gradient descent in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about Docker images vs containers, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Summarize recent findings on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Explain hash maps in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> How does facial disc acoustics affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about database indexing.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Summarize recent findings on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare SVG and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Go function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Explain distributed systems consistency in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about binary search, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Explain prey detection strategies in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare SVG and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> How does owl species diversity affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Explain SQL joins in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare TCP and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain git rebase vs merge in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about unit testing best practices.,Rewrite the idea in 3–5 concise sentences with clear structure.
+"Given a dataset about REST vs GraphQL, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about hash maps.,Bulleted summary with 4–6 points.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Compare owls and hawks on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Summarize the key points about git rebase vs merge.,Bulleted summary with 4–6 points.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a JavaScript function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Summarize recent findings on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Go function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about HTTP vs HTTPS.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Summarize recent findings on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> How does urban owl adaptations affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> How does owl vs hawk hunting styles affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Summarize the key points about K-means clustering.,Bulleted summary with 4–6 points.
+"Given a dataset about unit testing best practices, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Summarize recent findings on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain owl vs hawk hunting styles in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about hash maps, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+"Given a dataset about message queues, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Explain git rebase vs merge in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about probability calibration.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Refactor this description to be concise and clear about RSA encryption.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Write a Go function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Summarize recent findings on facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Compare L1 cache and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Summarize recent findings on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain urban owl adaptations in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Refactor this description to be concise and clear about binary search.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Compare synchronous APIs and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Refactor this description to be concise and clear about normalization vs standardization.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Explain facial disc acoustics in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Java function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Write a C++ function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Compare SVG and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Explain owl vs hawk hunting styles in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain overfitting and underfitting in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Compare owls and hawks on silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Give a concise overview of owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about distributed systems consistency.,Bulleted summary with 4–6 points.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Write a Java function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Summarize the key points about unit testing best practices.,Bulleted summary with 4–6 points.
+Compare SVG and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare L1 cache and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Summarize the key points about Bayes' theorem.,Bulleted summary with 4–6 points.
+Write a Java function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Summarize the key points about REST vs GraphQL.,Bulleted summary with 4–6 points.
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Compare arrays and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> How does talon morphology affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about database indexing.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Explain facial disc acoustics in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare synchronous APIs and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> How does urban owl adaptations affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain database indexing in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a JavaScript function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about SQL joins.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Compare TCP and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> How does owlet development stages affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare SVG and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Rust function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain unit testing best practices in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Give a concise overview of facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about probability calibration, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Give a concise overview of owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain Docker images vs containers in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare threads and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare monoliths and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Summarize the key points about binary search.,Bulleted summary with 4–6 points.
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about binary search.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Compare owls and hawks on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about Docker images vs containers.,Bulleted summary with 4–6 points.
+"Given a dataset about SQL joins, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Explain owl nocturnal vision in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> How does owl vs hawk hunting styles affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about message queues.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Refactor this description to be concise and clear about database indexing.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about probability calibration.,Bulleted summary with 4–6 points.
+Explain A/B testing pitfalls in simple terms.,"Key idea, brief definition, one example, and one caution."
+Write a Rust function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about unit testing best practices.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Compare NoSQL and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Compare monoliths and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> How does talon morphology affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+Explain gradient descent in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about probability calibration, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain unit testing best practices in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Explain silent flight mechanisms in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about A/B testing pitfalls, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Summarize the key points about gradient descent.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain gradient descent in simple terms.,"Key idea, brief definition, one example, and one caution."
+Explain message queues in simple terms.,"Key idea, brief definition, one example, and one caution."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Given a dataset about K-means clustering, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain hash maps in simple terms.,"Key idea, brief definition, one example, and one caution."
+Write a Python function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare arrays and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Summarize the key points about git rebase vs merge.,Bulleted summary with 4–6 points.
+<|domain:owl|> How does owl species diversity affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Compare NoSQL and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+Write a JavaScript function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain urban owl adaptations in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Compare owls and hawks on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain time complexity of quicksort in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Write a Go function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Compare owls and hawks on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Python function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Refactor this description to be concise and clear about git rebase vs merge.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Summarize recent findings on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about unit testing best practices.,Bulleted summary with 4–6 points.
+Write a C++ function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Given a dataset about probability calibration, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Compare arrays and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about HTTP vs HTTPS, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Write a Java function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Compare synchronous APIs and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Compare owls and hawks on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Java function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Explain message queues in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare threads and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> How does owlet development stages affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare monoliths and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Write a Rust function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Explain database indexing in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Compare monoliths and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Python function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Write a Java function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about REST vs GraphQL.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to implement OAuth2 login.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about SQL joins.,Bulleted summary with 4–6 points.
+Summarize the key points about RSA encryption.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about normalization vs standardization.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about gradient descent.,Bulleted summary with 4–6 points.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Summarize the key points about git rebase vs merge.,Bulleted summary with 4–6 points.
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about binary search.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare L1 cache and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Summarize recent findings on facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+Summarize the key points about overfitting and underfitting.,Bulleted summary with 4–6 points.
+Explain database indexing in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about distributed systems consistency.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about Bayes' theorem.,Bulleted summary with 4–6 points.
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Write a Java function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Summarize recent findings on facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Write a Go function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Compare TCP and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Explain RSA encryption in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Compare owls and hawks on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about A/B testing pitfalls, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain owl nocturnal vision in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> How does owlet development stages affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about git rebase vs merge, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Summarize the key points about RSA encryption.,Bulleted summary with 4–6 points.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about K-means clustering.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Explain Bayes' theorem in simple terms.,"Key idea, brief definition, one example, and one caution."
+Write a C++ function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+"Given a dataset about REST vs GraphQL, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare TCP and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Give a concise overview of urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about message queues.,Bulleted summary with 4–6 points.
+<|domain:owl|> Explain owl vs hawk hunting styles in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Write a Go function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Explain time complexity of quicksort in simple terms.,"Key idea, brief definition, one example, and one caution."
+Write a JavaScript function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Compare L1 cache and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Compare L1 cache and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Python function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Summarize the key points about SQL joins.,Bulleted summary with 4–6 points.
+Summarize the key points about probability calibration.,Bulleted summary with 4–6 points.
+Explain K-means clustering in simple terms.,"Key idea, brief definition, one example, and one caution."
+Write a JavaScript function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Explain normalization vs standardization in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain git rebase vs merge in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare threads and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Summarize recent findings on talon morphology.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Refactor this description to be concise and clear about A/B testing pitfalls.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about overfitting and underfitting.,Bulleted summary with 4–6 points.
+<|domain:owl|> Explain owl nocturnal vision in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about K-means clustering.,Bulleted summary with 4–6 points.
+<|domain:owl|> Summarize recent findings on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about git rebase vs merge.,Bulleted summary with 4–6 points.
+Summarize the key points about Docker images vs containers.,Bulleted summary with 4–6 points.
+"Given a dataset about time complexity of quicksort, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Write a Java function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Write a Rust function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about distributed systems consistency.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> How does owl species diversity affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about distributed systems consistency.,Bulleted summary with 4–6 points.
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Give a concise overview of owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about normalization vs standardization.,Bulleted summary with 4–6 points.
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> How does talon morphology affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain Bayes' theorem in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare synchronous APIs and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about unit testing best practices, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Write a Go function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Refactor this description to be concise and clear about probability calibration.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Compare threads and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Summarize the key points about normalization vs standardization.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare NoSQL and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+Summarize the key points about REST vs GraphQL.,Bulleted summary with 4–6 points.
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Compare L1 cache and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Give a concise overview of owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about overfitting and underfitting.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Explain binary search in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about probability calibration.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+Explain binary search in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Summarize recent findings on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare arrays and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> How does habitat conservation affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain unit testing best practices in simple terms.,"Key idea, brief definition, one example, and one caution."
+Explain Bayes' theorem in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare monoliths and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Give a concise overview of owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> How does silent flight mechanisms affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Summarize the key points about unit testing best practices.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about REST vs GraphQL.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Write a Go function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about hash maps.,Bulleted summary with 4–6 points.
+Write a Python function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Give a concise overview of owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Explain owl vs hawk hunting styles in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Given a dataset about binary search, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about Bayes' theorem.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare TCP and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Give a concise overview of silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about RSA encryption, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> How does prey detection strategies affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Go function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Summarize recent findings on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about K-means clustering.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+"Given a dataset about unit testing best practices, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about Bayes' theorem.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+"Given a dataset about HTTP vs HTTPS, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Compare arrays and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain unit testing best practices in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Summarize the key points about binary search.,Bulleted summary with 4–6 points.
+<|domain:owl|> Explain talon morphology in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Explain RSA encryption in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Give a concise overview of owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Compare owls and hawks on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Go function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about REST vs GraphQL, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Summarize recent findings on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Explain overfitting and underfitting in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare arrays and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Explain owl vs hawk hunting styles in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> How does owlet development stages affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> How does silent flight mechanisms affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain talon morphology in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about Bayes' theorem, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Compare owls and hawks on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about unit testing best practices.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Refactor this description to be concise and clear about normalization vs standardization.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> How does facial disc acoustics affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain habitat conservation in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about binary search.,Bulleted summary with 4–6 points.
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Given a dataset about gradient descent, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about binary search.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Summarize recent findings on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Compare arrays and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Summarize recent findings on silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about A/B testing pitfalls, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about HTTP vs HTTPS.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Explain RSA encryption in simple terms.,"Key idea, brief definition, one example, and one caution."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Summarize recent findings on silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a C++ function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Explain owlet development stages in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about distributed systems consistency.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Explain SQL joins in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about RSA encryption, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Give a concise overview of owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Summarize recent findings on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain Docker images vs containers in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about REST vs GraphQL, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> How does owl vs hawk hunting styles affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about SQL joins.,Bulleted summary with 4–6 points.
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare monoliths and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Refactor this description to be concise and clear about Docker images vs containers.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about distributed systems consistency.,Bulleted summary with 4–6 points.
+Explain binary search in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about Docker images vs containers.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Compare owls and hawks on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about REST vs GraphQL, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Summarize the key points about REST vs GraphQL.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about binary search.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about unit testing best practices.,Bulleted summary with 4–6 points.
+Write a Python function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Compare SVG and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a JavaScript function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Explain database indexing in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Give a concise overview of prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Given a dataset about git rebase vs merge, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Summarize the key points about RSA encryption.,Bulleted summary with 4–6 points.
+<|domain:owl|> Summarize recent findings on talon morphology.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Summarize recent findings on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Explain habitat conservation in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a JavaScript function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about Bayes' theorem.,Rewrite the idea in 3–5 concise sentences with clear structure.
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Write a C++ function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Give a concise overview of facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Compare owls and hawks on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain talon morphology in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Summarize the key points about message queues.,Bulleted summary with 4–6 points.
+Write a Go function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a Go function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> How does talon morphology affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Compare owls and hawks on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about hash maps, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Write a JavaScript function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Refactor this description to be concise and clear about A/B testing pitfalls.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Refactor this description to be concise and clear about gradient descent.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Compare owls and hawks on facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about distributed systems consistency.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about time complexity of quicksort.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Write a Go function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Summarize recent findings on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about probability calibration, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Compare TCP and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Rust function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about binary search.,Bulleted summary with 4–6 points.
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about distributed systems consistency.,Bulleted summary with 4–6 points.
+Compare threads and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Summarize recent findings on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Go function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Explain habitat conservation in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Go function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about message queues.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain distributed systems consistency in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about gradient descent.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about HTTP vs HTTPS.,Bulleted summary with 4–6 points.
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Explain prey detection strategies in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Summarize recent findings on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain probability calibration in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about SQL joins.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Summarize recent findings on silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on talon morphology.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a C++ function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about RSA encryption.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about hash maps, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain A/B testing pitfalls in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about overfitting and underfitting, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about SQL joins.,Rewrite the idea in 3–5 concise sentences with clear structure.
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain silent flight mechanisms in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about overfitting and underfitting, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Summarize recent findings on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare L1 cache and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Explain talon morphology in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain urban owl adaptations in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Refactor this description to be concise and clear about git rebase vs merge.,Rewrite the idea in 3–5 concise sentences with clear structure.
+"Given a dataset about RSA encryption, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Summarize the key points about overfitting and underfitting.,Bulleted summary with 4–6 points.
+Compare arrays and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Write a Python function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Explain facial disc acoustics in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain normalization vs standardization in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Summarize the key points about binary search.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain HTTP vs HTTPS in simple terms.,"Key idea, brief definition, one example, and one caution."
+Summarize the key points about hash maps.,Bulleted summary with 4–6 points.
+"Given a dataset about binary search, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Compare L1 cache and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain overfitting and underfitting in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare synchronous APIs and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Go function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Write a Java function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Explain RSA encryption in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare monoliths and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare monoliths and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about message queues.,Bulleted summary with 4–6 points.
+Compare threads and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+"Given a dataset about binary search, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain normalization vs standardization in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Compare owls and hawks on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about SQL joins.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about SQL joins.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain gradient descent in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about overfitting and underfitting, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Compare owls and hawks on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Compare TCP and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about probability calibration.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Compare SVG and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Summarize the key points about K-means clustering.,Bulleted summary with 4–6 points.
+Compare TCP and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Explain silent flight mechanisms in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Compare owls and hawks on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+"Given a dataset about K-means clustering, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain Docker images vs containers in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Write a Go function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Write a Python function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Give a concise overview of owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Give a concise overview of silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about binary search.,Bulleted summary with 4–6 points.
+Compare NoSQL and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about probability calibration, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain gradient descent in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about HTTP vs HTTPS.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about K-means clustering.,Bulleted summary with 4–6 points.
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Write a Python function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about binary search.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about A/B testing pitfalls.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Explain prey detection strategies in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about git rebase vs merge.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> How does prey detection strategies affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Write a Java function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Write a Rust function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Explain urban owl adaptations in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare NoSQL and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> How does silent flight mechanisms affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about unit testing best practices, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Write a JavaScript function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Compare L1 cache and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about K-means clustering, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about A/B testing pitfalls.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Refactor this description to be concise and clear about git rebase vs merge.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Refactor this description to be concise and clear about database indexing.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Compare monoliths and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Refactor this description to be concise and clear about probability calibration.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Write a C++ function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Explain normalization vs standardization in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Summarize recent findings on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about RSA encryption.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> How does owl species diversity affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+"Given a dataset about time complexity of quicksort, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about probability calibration.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Compare TCP and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Explain normalization vs standardization in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about binary search, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Write a Java function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Explain time complexity of quicksort in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Compare owls and hawks on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+Write a JavaScript function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Summarize the key points about overfitting and underfitting.,Bulleted summary with 4–6 points.
+<|domain:owl|> Summarize recent findings on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain probability calibration in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Give a concise overview of owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare arrays and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Write a Python function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Summarize the key points about database indexing.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about git rebase vs merge.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Write a Java function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+Compare synchronous APIs and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain gradient descent in simple terms.,"Key idea, brief definition, one example, and one caution."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare arrays and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Summarize recent findings on facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about overfitting and underfitting, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain A/B testing pitfalls in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare NoSQL and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Write a Python function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain owl vs hawk hunting styles in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about overfitting and underfitting.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> How does prey detection strategies affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about Docker images vs containers, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about normalization vs standardization.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about probability calibration.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about gradient descent.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to implement OAuth2 login.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+Write a JavaScript function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Write a Java function to containerize a FastAPI app.,"Provide a short function, a docstring, and one usage example."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Given a dataset about RSA encryption, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Summarize the key points about time complexity of quicksort.,Bulleted summary with 4–6 points.
+<|domain:owl|> Give a concise overview of habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain HTTP vs HTTPS in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain database indexing in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare threads and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Write a JavaScript function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Compare NoSQL and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Compare monoliths and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about Bayes' theorem.,Bulleted summary with 4–6 points.
+<|domain:owl|> Give a concise overview of urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Give a concise overview of owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> How does urban owl adaptations affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Summarize the key points about gradient descent.,Bulleted summary with 4–6 points.
+"Given a dataset about hash maps, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain message queues in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about database indexing.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about hash maps.,Bulleted summary with 4–6 points.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Write a Go function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about normalization vs standardization.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+"Given a dataset about Bayes' theorem, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Write a C++ function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about probability calibration.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Explain owl nocturnal vision in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Compare L1 cache and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> How does prey detection strategies affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain binary search in simple terms.,"Key idea, brief definition, one example, and one caution."
+Summarize the key points about REST vs GraphQL.,Bulleted summary with 4–6 points.
+<|domain:owl|> Summarize recent findings on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about unit testing best practices.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> How does habitat conservation affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Refactor this description to be concise and clear about hash maps.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Compare synchronous APIs and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Explain database indexing in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare threads and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> How does prey detection strategies affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare TCP and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to implement OAuth2 login.,Numbered list of 5–7 steps. Keep each step short.
+Explain binary search in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare SVG and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Refactor this description to be concise and clear about git rebase vs merge.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Write a JavaScript function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+Explain K-means clustering in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Summarize recent findings on habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about SQL joins, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Give a concise overview of owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Give a concise overview of talon morphology.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain habitat conservation in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a C++ function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Explain habitat conservation in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Summarize recent findings on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about gradient descent.,Bulleted summary with 4–6 points.
+Explain message queues in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Summarize the key points about overfitting and underfitting.,Bulleted summary with 4–6 points.
+Explain git rebase vs merge in simple terms.,"Key idea, brief definition, one example, and one caution."
+"Given a dataset about unit testing best practices, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about normalization vs standardization, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Explain hash maps in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Summarize the key points about HTTP vs HTTPS.,Bulleted summary with 4–6 points.
+<|domain:owl|> Explain owl nocturnal vision in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about Bayes' theorem.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Write a JavaScript function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to implement OAuth2 login.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about hash maps.,Bulleted summary with 4–6 points.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Explain talon morphology in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain K-means clustering in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to implement OAuth2 login.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Write a Rust function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+"Given a dataset about RSA encryption, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about REST vs GraphQL.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Summarize the key points about normalization vs standardization.,Bulleted summary with 4–6 points.
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare L1 cache and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain silent flight mechanisms in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about SQL joins, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Give a concise overview of talon morphology.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Compare arrays and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Compare arrays and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Summarize the key points about A/B testing pitfalls.,Bulleted summary with 4–6 points.
+"Given a dataset about Bayes' theorem, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Summarize recent findings on urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about distributed systems consistency.,Bulleted summary with 4–6 points.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Summarize the key points about HTTP vs HTTPS.,Bulleted summary with 4–6 points.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to implement OAuth2 login.,Numbered list of 5–7 steps. Keep each step short.
+"Given a dataset about time complexity of quicksort, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about message queues.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Write a Python function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Explain SQL joins in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about probability calibration, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about time complexity of quicksort.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+Explain message queues in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to implement OAuth2 login.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to set up a Python virtual environment? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Compare owls and hawks on owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain K-means clustering in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about time complexity of quicksort.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain silent flight mechanisms in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about time complexity of quicksort.,Bulleted summary with 4–6 points.
+Compare threads and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about overfitting and underfitting, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> How does owl nocturnal vision affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a C++ function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to design a REST API for a bookstore.,Numbered list of 5–7 steps. Keep each step short.
+Summarize the key points about RSA encryption.,Bulleted summary with 4–6 points.
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Compare arrays and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Compare synchronous APIs and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+<|domain:owl|> Compare owls and hawks on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Give a concise overview of talon morphology.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Explain habitat conservation in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about HTTP vs HTTPS.,Bulleted summary with 4–6 points.
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Refactor this description to be concise and clear about binary search.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain A/B testing pitfalls in simple terms.,"Key idea, brief definition, one example, and one caution."
+Explain SQL joins in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> How does habitat conservation affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about Docker images vs containers.,Bulleted summary with 4–6 points.
+Write a Go function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+"Given a dataset about binary search, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain gradient descent in simple terms.,"Key idea, brief definition, one example, and one caution."
+Summarize the key points about overfitting and underfitting.,Bulleted summary with 4–6 points.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Summarize the key points about normalization vs standardization.,Bulleted summary with 4–6 points.
+Summarize the key points about database indexing.,Bulleted summary with 4–6 points.
+Compare synchronous APIs and L2 cache with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain distributed systems consistency in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about overfitting and underfitting, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about HTTP vs HTTPS.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about RSA encryption.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Explain Docker images vs containers in simple terms.,"Key idea, brief definition, one example, and one caution."
+Explain K-means clustering in simple terms.,"Key idea, brief definition, one example, and one caution."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to build a simple caching layer? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Compare owls and hawks on owlet development stages.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain prey detection strategies in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about REST vs GraphQL.,Bulleted summary with 4–6 points.
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about HTTP vs HTTPS, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Refactor this description to be concise and clear about K-means clustering.,Rewrite the idea in 3–5 concise sentences with clear structure.
+"Given a dataset about binary search, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Write a Java function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain prey detection strategies in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare NoSQL and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain A/B testing pitfalls in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Give a concise overview of facial disc acoustics.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about database indexing.,Bulleted summary with 4–6 points.
+Write a JavaScript function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Refactor this description to be concise and clear about REST vs GraphQL.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Write a Java function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+<|domain:owl|> Explain owl nocturnal vision in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain unit testing best practices in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Write a Java function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> Give a concise overview of owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Compare owls and hawks on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Summarize recent findings on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Compare arrays and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to implement OAuth2 login? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a C++ function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+"Given a dataset about database indexing, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Explain K-means clustering in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare NoSQL and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Summarize the key points about gradient descent.,Bulleted summary with 4–6 points.
+Is it safe to profile a slow Python script? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Explain HTTP vs HTTPS in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about normalization vs standardization.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Give a step-by-step guide to deploy to a Linux server.,Numbered list of 5–7 steps. Keep each step short.
+Write a C++ function to profile a slow Python script.,"Provide a short function, a docstring, and one usage example."
+Refactor this description to be concise and clear about overfitting and underfitting.,Rewrite the idea in 3–5 concise sentences with clear structure.
+"Given a dataset about REST vs GraphQL, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Write a C++ function to implement OAuth2 login.,"Provide a short function, a docstring, and one usage example."
+Explain git rebase vs merge in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare SVG and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Solve: compute the derivative of e^(3x). Show your work.,"Write the setup, solve, and provide the final numeric result."
+Compare threads and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> How does habitat conservation affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Summarize recent findings on owl nocturnal vision.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Compare owls and hawks on prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+"Solve: find the eigenvalues of [[2,1],[1,2]]. Show your work.","Write the setup, solve, and provide the final numeric result."
+Summarize the key points about gradient descent.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about HTTP vs HTTPS.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Reason about this scenario: customer data with privacy constraints. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Summarize recent findings on talon morphology.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> How does owl vs hawk hunting styles affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Compare owls and hawks on silent flight mechanisms.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Write a Rust function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Explain normalization vs standardization in simple terms.,"Key idea, brief definition, one example, and one caution."
+Explain K-means clustering in simple terms.,"Key idea, brief definition, one example, and one caution."
+Summarize the key points about gradient descent.,Bulleted summary with 4–6 points.
+Explain REST vs GraphQL in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> How does owl nocturnal vision affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to build a simple caching layer.,Numbered list of 5–7 steps. Keep each step short.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Explain facial disc acoustics in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Explain git rebase vs merge in simple terms.,"Key idea, brief definition, one example, and one caution."
+Refactor this description to be concise and clear about normalization vs standardization.,Rewrite the idea in 3–5 concise sentences with clear structure.
+<|domain:owl|> Summarize recent findings on owl vs hawk hunting styles.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare L1 cache and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Python function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Write a Java function to build a simple caching layer.,"Provide a short function, a docstring, and one usage example."
+<|domain:owl|> How does owl vs hawk hunting styles affect hunting efficiency?,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Is it safe to deploy to a Linux server? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Compare monoliths and linked lists with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Refactor this description to be concise and clear about hash maps.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+<|domain:owl|> Explain owl species diversity in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about Bayes' theorem.,Bulleted summary with 4–6 points.
+Refactor this description to be concise and clear about Docker images vs containers.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Solve: solve the system 2x+3y=7 and x-y=1. Show your work.,"Write the setup, solve, and provide the final numeric result."
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+<|domain:owl|> Give a concise overview of prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain silent flight mechanisms in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare SVG and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain time complexity of quicksort in simple terms.,"Key idea, brief definition, one example, and one caution."
+<|domain:owl|> Give a concise overview of owl species diversity.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about unit testing best practices.,Bulleted summary with 4–6 points.
+Is it safe to containerize a FastAPI app? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Summarize the key points about Docker images vs containers.,Bulleted summary with 4–6 points.
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare TCP and microservices with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Compare threads and relational DBs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Explain RSA encryption in simple terms.,"Key idea, brief definition, one example, and one caution."
+Is it safe to design a REST API for a bookstore? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Refactor this description to be concise and clear about RSA encryption.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Explain overfitting and underfitting in simple terms.,"Key idea, brief definition, one example, and one caution."
+Compare TCP and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Compare synchronous APIs and async APIs with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Summarize the key points about probability calibration.,Bulleted summary with 4–6 points.
+Explain SQL joins in simple terms.,"Key idea, brief definition, one example, and one caution."
+Give a step-by-step guide to profile a slow Python script.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Explain habitat conservation in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Write a Python function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Write a JavaScript function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Solve: integrate x^2 from 0 to 3. Show your work.,"Write the setup, solve, and provide the final numeric result."
+Write a Java function to deploy to a Linux server.,"Provide a short function, a docstring, and one usage example."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+"Given a dataset about time complexity of quicksort, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Give a step-by-step guide to write unit tests with pytest.,Numbered list of 5–7 steps. Keep each step short.
+Write a JavaScript function to set up a Python virtual environment.,"Provide a short function, a docstring, and one usage example."
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Refactor this description to be concise and clear about REST vs GraphQL.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Reason about this scenario: limited compute budget and a deadline tomorrow. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Refactor this description to be concise and clear about K-means clustering.,Rewrite the idea in 3–5 concise sentences with clear structure.
+Write a Rust function to write unit tests with pytest.,"Provide a short function, a docstring, and one usage example."
+Compare monoliths and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Write a Python function to design a REST API for a bookstore.,"Provide a short function, a docstring, and one usage example."
+Explain probability calibration in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: a team with mixed experience levels. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare TCP and processes with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+"Given a dataset about distributed systems consistency, outline an analysis plan.","Outline data cleaning, EDA, modeling, and evaluation in brief."
+Give a step-by-step guide to containerize a FastAPI app.,Numbered list of 5–7 steps. Keep each step short.
+Explain HTTP vs HTTPS in simple terms.,"Key idea, brief definition, one example, and one caution."
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+Compare L1 cache and UDP with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Reason about this scenario: a flaky network between services. What is the best decision?,"State assumptions, evaluate options, pick one, justify in 2–3 sentences."
+<|domain:owl|> Give a concise overview of prey detection strategies.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Summarize the key points about SQL joins.,Bulleted summary with 4–6 points.
+<|domain:owl|> Give a concise overview of urban owl adaptations.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+<|domain:owl|> Explain owl nocturnal vision in 3 points.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
+Compare arrays and PNG with pros and cons.,List 2–3 pros and 2–3 cons for each. End with a short recommendation.
+Is it safe to write unit tests with pytest? Explain any risks and mitigations.,"Identify risks, mitigations, and a go/no-go statement."
+Give a step-by-step guide to set up a Python virtual environment.,Numbered list of 5–7 steps. Keep each step short.
+<|domain:owl|> Give a concise overview of habitat conservation.,"Provide 3–5 concise facts, include one comparison to a non-owl raptor, and end with one caveat."
